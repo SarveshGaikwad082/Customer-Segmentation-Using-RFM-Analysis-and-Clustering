@@ -1,7 +1,5 @@
 # Customer-Segmentation-Using-RFM-Analysis-and-Clustering
-Here's a concise `README.md` for your Customer Segmentation project using RFM Analysis and Clustering:
 
----
 
 # Customer Segmentation Using RFM Analysis and Clustering
 
