@@ -50,13 +50,7 @@ The dataset used is from [UCI's Online Retail Data](https://archive.ics.uci.edu/
 ## Conclusion
 
 - The RFM analysis and clustering have provided insights into customer behavior, enabling more targeted marketing and strategic decision-making.
-
-# EDA
-
 - We analyzed cluster distribution and visualized it with a pie chart to understand the proportion of each customer segment.
-
-# final Result
-
 - Observation
 - RFM analysis shows that:
 
