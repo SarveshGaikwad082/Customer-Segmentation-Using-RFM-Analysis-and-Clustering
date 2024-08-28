@@ -34,8 +34,9 @@ The dataset used is from [UCI's Online Retail Data](https://archive.ics.uci.edu/
    - Identified and removed outliers in `Recency`, `Frequency`, and `Monetary` attributes.
 
 6. **Clustering**
-   -tried out different clustering algorithms such as K-Means, Agglomerative Hierarchical Clustering, and DBSCAN
-   -Additionall yanalyzed the cluster segmentation by plotting Recency vs. Frequency for each cluster.
+
+- tried out different clustering algorithms such as K-Means, Agglomerative Hierarchical Clustering, and DBSCAN
+- Additionall yanalyzed the cluster segmentation by plotting Recency vs. Frequency for each cluster.
    
 
 ## Results
